@@ -3,3 +3,4 @@ Trabajos practicos
 2022 Primer cuatrimestre
 1782885
 Zanier Franco Pedro
+Compilador utilizado, codeblocks 20.03, gnu gcc compiler
